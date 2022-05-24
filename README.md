@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VijaykumarDaddi
 - 👀 I’m interested in python,C,Java
-- 🌱 I’m currently learning Coding langauges
+- 🌱 I’m currently learning Coding languages and other Technical skills
 - 💞️ I’m looking to collaborate on reputed company
 - 📫 How to reach me by my email- vijaydaddi2000@gmail.com
 
